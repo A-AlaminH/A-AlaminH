@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # I'm Ahmed Alamin
 <a href="https://linkedin.com/in/ahmed-alamin-7942782b0/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
