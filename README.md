@@ -1,4 +1,9 @@
+<div align="center">
+ 
 <h1>Hello👋!  I'm Ahmed Alamin! <br/>  A Cybersecurity Professional</a> <br/> </h1> 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com/in/your-profile])
+</div>
 
 <h2>👨🏽‍💻 Cybersecrurity Projects:</h2>
  
@@ -31,3 +36,4 @@
 [<img align="left" alt="Shawn Davis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/a-alaminhussain
+
