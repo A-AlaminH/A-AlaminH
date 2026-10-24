@@ -2,9 +2,6 @@
  
 <h1>Hello👋!  I'm Ahmed Alamin! <br/>  A Cybersecurity Professional</a> <br/> </h1> 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com/in/your-profile])
-</div>
-
 <h2>👨🏽‍💻 Cybersecrurity Projects:</h2>
  
 - [Wazuh n8n Fully Automated Honeybot ](https://github.com/A-AlaminH/Honeybot_SOC_Automation_Project_Workflow)
